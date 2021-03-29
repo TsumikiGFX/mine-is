@@ -1,0 +1,26 @@
+{
+  "author": "Tsumiki_GFX",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord.js": "12.5.1",
+    "moment": "^2.29.1",
+    "os": "^0.1.1",
+    "util": "0.12.3",
+    "gpu-info": "0.0.1"
+  },
+  "description": "A research simplification for Discord Bots",
+  "keywords": [
+    "discord",
+    "discord.js",
+    "bot",
+    "informations",
+    "mine"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "mine-is",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
